@@ -1,6 +1,6 @@
 # Mật Mã Dịch Chuyển (Shift Cipher)
 
-Một ứng dụng toàn diện để mã hóa và giải mã văn bản sử dụng thuật toán mật mã dịch chuyển (Shift Cipher), còn được gọi là mật mã Caesar.
+Một ứng dụng để mã hóa và giải mã văn bản sử dụng thuật toán mật mã dịch chuyển (Shift Cipher), còn được gọi là mật mã Caesar.
 
 ## Giới thiệu
 
